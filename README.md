@@ -1,1 +1,4 @@
-# SportsAnalytics
+# Sports Analytics Project
+In this project, I will study on NBA, specifically focus on how an individual player performance affect the game results. The player I study is James Harden, and the data are the game logs between season 2009-2010 and season 2019-2020 scraping from basketball-reference.com. 
+
+This project has two primary goals. One of the goals is to predict the game results (Win/Loss) based on James Harden’s statistics using different modeling approaches. The model candidates are Logistic Regression, Penalized Logistic Regression: elastic net, Random Forest and XGBoost algorithm. The optimal model will be evaluated using Accuracy. The other goal is to demonstrate data visualization of this project by creating a R shiny dashboard. Game performance can be evaluated through this app by uploading any NBA player’s game statistics.
